@@ -1,0 +1,2 @@
+Enter a non-negative integer: Invalid input. Please enter a non-negative integer.
+Enter a non-negative integer: The factorial of 5 is: 120
